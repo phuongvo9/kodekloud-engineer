@@ -9,7 +9,7 @@ Sp!dy
 sudo su -
 systemctl status mariadb
 
-systemctl start mariadb
+systemctl start mariadb #error - can not start
 
 # view the detailed error message
 systemctl status -l mariadb
