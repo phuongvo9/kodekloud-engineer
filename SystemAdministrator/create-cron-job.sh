@@ -15,7 +15,8 @@ systemctl status crond.service
 
 crontab -u root -l
 crontab -e 
-    # input cron */5 * * echo hello > /tmp/cron_text
+    # input cron
+    # */5 * * * * echo hello > /tmp/cron_text
 
 watch -n 5 ls /tmp
 
