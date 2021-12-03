@@ -9,5 +9,5 @@
 
 :heavy_check_mark: Task	- Create a Linux User with Non-Interactive Shell  
 :heavy_check_mark: Task - Create a Cron job  
-:heavy_check_mark: Task - Create a user  
+:heavy_check_mark: Task - Linux User expiry  
 :heavy_check_mark: Task - MariaDB Troubleshooting
