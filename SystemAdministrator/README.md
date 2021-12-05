@@ -11,3 +11,4 @@
 :heavy_check_mark: Task - Create a Cron job  
 :heavy_check_mark: Task - Linux User expiry  
 :heavy_check_mark: Task - MariaDB Troubleshooting
+:heavy_check_mark: Task - SELinux Installation
