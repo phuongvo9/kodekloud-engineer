@@ -12,3 +12,4 @@
 :heavy_check_mark: Task - Linux User expiry  
 :heavy_check_mark: Task - MariaDB Troubleshooting
 :heavy_check_mark: Task - SELinux Installation
+:heavy_check_mark: Task - Linux Banner - motd :message of the day
