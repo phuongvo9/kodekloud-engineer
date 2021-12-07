@@ -24,7 +24,18 @@ ssh steve@stapp02
 
 
 ####################------------ Update Message-of-the-day for APP 03 -------------################
+scp -r /home/thor/nautilus_banner banner@stapp03:/tmp/
+ssh -t banner@stapp03 'sudo mv /tmp/nautilus_banner /etc/motd'
 
+ssh banner@stapp03
+
+
+
+####################------------ Update Message-of-the-day for Database server -------------################
+scp -r /home/thor/nautilus_banner peter@stdb01:/tmp/
+ssh -t peter@stdb01 'sudo mv /tmp/nautilus_banner /etc/motd'
+
+ssh peter@stdb01
 
 
 # Nautilus App 1
