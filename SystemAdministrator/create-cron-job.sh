@@ -8,6 +8,14 @@ Am3ric@
 ssh banner@stapp03
 BigGr33n
 
+# Nautilus DB Server
+ssh peter@stdb01
+Sp!dy
+
+#HTTP LBR
+ssh loki@stlb01
+Mischi3f
+
 # -------------------------------------------------------------------------------
 yum install cronie
 systemctl start crond.service
