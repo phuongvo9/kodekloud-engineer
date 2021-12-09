@@ -1,5 +1,5 @@
 # Nautilus App 1
-ssh tony@stapp1
+ssh tony@stapp01
 Ir0nM@n
 # Nautilus App 2
 ssh steve@stapp02
