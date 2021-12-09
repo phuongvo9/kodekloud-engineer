@@ -1,3 +1,6 @@
+#Jump server
+thor
+mjolnir123
 # Nautilus App 1
 ssh tony@stapp01
 Ir0nM@n
