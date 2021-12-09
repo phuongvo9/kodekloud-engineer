@@ -6,7 +6,7 @@
 ssh-keygen -t rsa
 
 # install sshpublic key from Jumphost to stapp1 to authenticate as Tony in stapp1
-ssh-copy-id tony@stapp1
+ssh-copy-id tony@stapp01
     Ir0nM@n
 # install sshpublic key from Jumphost to stapp2 to authenticate as Steve in stapp2
 ssh-copy-id steve@stapp02
