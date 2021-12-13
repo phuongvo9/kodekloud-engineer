@@ -16,3 +16,4 @@
 :heavy_check_mark: Task - SSH Authentication - Passwordless
 :heavy_check_mark: Task - Linux User Without home directory
 :heavy_check_mark: Task - Linux Remote Copy
+:heavy_check_mark: Task - Linux String Substitute
