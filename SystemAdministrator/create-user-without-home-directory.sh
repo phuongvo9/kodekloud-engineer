@@ -35,3 +35,4 @@ sshd:x:74:74:Privilege-separated SSH:/var/empty/sshd:/sbin/nologin
 ansible:x:1000:1000::/home/ansible:/bin/bash
 steve:x:1001:1001::/home/steve:/bin/bash
 mariyam:x:1002:1002::/home/mariyam:/bin/bash
+merey:x:1003:1003::/home/merey:/bin/bash
