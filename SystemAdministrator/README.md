@@ -20,3 +20,4 @@
 :heavy_check_mark: Task - Linux String Substitute (sed) - hard
 :heavy_check_mark: Task - Linux Services
 :heavy_check_mark: Task - Linux User Files
+:heavy_check_mark: Task - Disable Root Login
