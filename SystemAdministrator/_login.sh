@@ -20,7 +20,8 @@ ssh loki@stlb01
 Mischi3f
 
 # Nautilus Storage Server
-ststor01 - 172.16.238.15 - ststor01.stratos.xfusioncorp.com
+ststor01 - 172.16.238.15
+ststor01.stratos.xfusioncorp.com
 natasha@ststor01
 natasha
 Bl@kW
