@@ -23,3 +23,4 @@
 :heavy_check_mark: Task - Disable Root Login
 :heavy_check_mark: Task - Linux NTP Setup
 :heavy_check_mark: Task - Web Server Security
+:heavy_check_mark: Task - Linux Configure Sudo
