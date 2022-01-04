@@ -13,7 +13,7 @@ ansible    ALL=(ALL)   NOPASSWD:ALL
 john    ALL=(ALL) NOPASSWD:ALL
 
 
-root@stapp01 tony]# cat /etc/sudoers
+#[root@stapp01 tony]# cat /etc/sudoers
 ## Sudoers allows particular users to run various commands as
 ## the root user, without needing the root password.
 ##
