@@ -1,4 +1,4 @@
-
+#!/bin/bash/
 
 systemctl status sshd
 vi /etc/ssh/sshd_config
