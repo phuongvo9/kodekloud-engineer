@@ -24,3 +24,4 @@
 :heavy_check_mark: Task - Linux NTP Setup
 :heavy_check_mark: Task - Web Server Security
 :heavy_check_mark: Task - Linux Configure Sudo
+:heavy_check_mark: Task - Linux Bash Script
