@@ -12,3 +12,11 @@
     4  cat /etc/ntp | grep europe
     5  cat /etc/ntp.conf | grep europe
     6  history
+
+vi /etc/ntp.conf
+# Please consider joining the pool (http://www.pool.ntp.org/join.html).
+server 2.oceania.pool.ntp.org 
+server 0.centos.pool.ntp.org iburst
+server 1.centos.pool.ntp.org iburst
+server 2.centos.pool.ntp.org iburst
+server 3.centos.pool.ntp.org iburst
