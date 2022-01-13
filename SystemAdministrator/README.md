@@ -26,3 +26,4 @@
 :heavy_check_mark: Task - Linux Configure Sudo
 :heavy_check_mark: Task - Linux Bash Script
 :heavy_check_mark: Task - Add Response Headers in Apache
+:heavy_check_mark: Task - Linux GPG Encryption
