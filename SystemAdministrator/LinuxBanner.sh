@@ -1,4 +1,5 @@
-### During the monthly compliance meeting, it was pointed out that several servers in the Stratos DC do not have a valid banner. The security team has provided serveral approved templates which should be applied to the servers to maintain compliance. \
+### During the monthly compliance meeting, it was pointed out that several servers in the Stratos DC do not have a valid banner. \
+#The security team has provided serveral approved templates which should be applied to the servers to maintain compliance. \
 # These will be displayed to the user upon a successful login.
 # Update the message of the day on all application and db servers for Nautilus. Make use of the approved template located at /home/thor/nautilus_banner on jump host
 
@@ -42,7 +43,7 @@ ssh peter@stdb01
 
 
 # Nautilus App 1
-ssh tony@stapp1
+ssh tony@stapp01
 Ir0nM@n
 # Nautilus App 2
 ssh steve@stapp02
@@ -54,3 +55,16 @@ BigGr33n
 # Nautilus DB Server
 ssh peter@stdb01
 Sp!dy
+
+
+
+### ---
+# Error: bash: scp: command not found - lost connection
+# To install Openssh clients
+# thor@jump_host ~$ ssh peter@stdb01
+# peter@stdb01's password: 
+# [peter@stdb01 ~]$ rpm -qa | grep ssh
+# libssh2-1.4.3-12.el7_6.3.x86_64
+# openssh-7.4p1-21.el7.x86_64
+# openssh-server-7.4p1-21.el7.x86_64
+# [peter@stdb01 ~]$ yum install openssh-clients
