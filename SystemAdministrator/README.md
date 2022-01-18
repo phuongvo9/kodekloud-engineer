@@ -27,3 +27,4 @@
 :heavy_check_mark: Task - Linux Bash Script
 :heavy_check_mark: Task - Add Response Headers in Apache
 :heavy_check_mark: Task - Linux GPG Encryption
+:heavy_check_mark: Task - Setup SSL for Nginx
