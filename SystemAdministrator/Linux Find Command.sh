@@ -10,5 +10,6 @@ b. Copy all those files along with their parent directory structure to location 
 
 c. Please make sure not to copy the entire /var/www/html/beta directory content.
 """
+
+
 find /var/www/html/beta -type f -name "*.php" -exec cp --parent {} /beta \;
-find /var/www/html/beta -type f -name "*.js" -exec cp --parent {} /beta \;
